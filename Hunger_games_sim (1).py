@@ -2,7 +2,7 @@
 """
 Created on Tue Dec  7 20:24:27 2021
 
-@author: Carlos Villa
+@authors: Carlos Villa, Walter Truitt
 """
 
 import random
